@@ -1,8 +1,13 @@
-# React + Vite
+# This application is a recipe application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+On the homepage, users can view the recipes stored in the system in a card format.
 
-Currently, two official plugins are available:
+Each recipe can be viewed in detail.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Users can search for a recipe by entering the recipe title in the search bar if they wish.
+
+Users can add new recipes.
+
+Users can change the theme color of the application. They are given four color options: yellow, red, blue, and green.
+
+Users can also choose to use the application in either light or dark mode.
