@@ -1,0 +1,178 @@
+{
+  "tarifler": [
+    {
+      "id": "1",
+      "baslik": "Halka Kebabı",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "hazirlanisi": "Patlıcanların kabuklarını alacalı olarak soyalım ve yarım parmak genişliğinde dilimleyelim.Ardından su dolu kabın içerisine tuz ekleyip karıştıralım ve patlıcanları acısının çıkması için suya alarak 20 dakika bekletelim. Kabuklarını soyduğumuz soğanları da daire şeklinde dilimleyelim.",
+      "resim": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "2",
+      "baslik": "Karnıyarık Yemeği",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "6 adet küçük boy patlıcan",
+        "3 adet sivri biber",
+        "2 adet orta boy soğan",
+        "2 adet domates",
+        "2 adet sivri biber"
+      ],
+      "hazirlanisi": "Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.",
+      "resim": "karniyarik.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "3",
+      "baslik": "Tavuklu Sultan Kebabı",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "400g tavuk pirzola",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "hazirlanisi": "Patlıcanı alacalı soyarak küçük küçük doğrayın ve sıvı yağ ile kızartın.Süzgece alarak yağının süzmesi bekleyin bu arada tavukları soteleyin.Tavukları kuş başı doğrayın, tencereye alarak arada karıştırarak pişirin.Rengi dönüp suyunu saldığında yemeklik doğranmış soğanı ekleyin.",
+      "resim": "tavuklu-sultan-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "id": "3",
+      "baslik": "Halka Kebabı",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "hazirlanisi": "Patlıcanların kabuklarını alacalı olarak soyalım ve yarım parmak genişliğinde dilimleyelim.Ardından su dolu kabın içerisine tuz ekleyip karıştıralım ve patlıcanları acısının çıkması için suya alarak 20 dakika bekletelim. Kabuklarını soyduğumuz soğanları da daire şeklinde dilimleyelim.",
+      "resim": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "4",
+      "baslik": "Karnıyarık Yemeği",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "6 adet küçük boy patlıcan",
+        "3 adet sivri biber",
+        "2 adet orta boy soğan",
+        "2 adet domates",
+        "2 adet sivri biber"
+      ],
+      "hazirlanisi": "Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.",
+      "resim": "karniyarik.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "5",
+      "baslik": "Tavuklu Sultan Kebabı",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "400g tavuk pirzola",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "hazirlanisi": "Patlıcanı alacalı soyarak küçük küçük doğrayın ve sıvı yağ ile kızartın.Süzgece alarak yağının süzmesi bekleyin bu arada tavukları soteleyin.Tavukları kuş başı doğrayın, tencereye alarak arada karıştırarak pişirin.Rengi dönüp suyunu saldığında yemeklik doğranmış soğanı ekleyin.",
+      "resim": "tavuklu-sultan-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "id": "6",
+      "baslik": "Halka Kebabı",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "hazirlanisi": "Patlıcanların kabuklarını alacalı olarak soyalım ve yarım parmak genişliğinde dilimleyelim.Ardından su dolu kabın içerisine tuz ekleyip karıştıralım ve patlıcanları acısının çıkması için suya alarak 20 dakika bekletelim. Kabuklarını soyduğumuz soğanları da daire şeklinde dilimleyelim.",
+      "resim": "halka-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/halka-kebabi/"
+    },
+    {
+      "id": "7",
+      "baslik": "Karnıyarık Yemeği",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "6 adet küçük boy patlıcan",
+        "3 adet sivri biber",
+        "2 adet orta boy soğan",
+        "2 adet domates",
+        "2 adet sivri biber"
+      ],
+      "hazirlanisi": "Patlıcanları çizgili soyup, yarım saat yağ çekmemesi için tuzlu suda bekletin.İyice yıkadıktan sonra suyunu havlu ile çektirin ve az yağda kızartın. 3 adet biberi de yağda kızartın.Daha sonra aynı tavada doğranmış soğanları kavurun, kıymayı ekleyerek bir müddet daha kavurun ve biberleri, sarımsağı ekleyerek 2 dakika daha kavurun.",
+      "resim": "karniyarik.jpg",
+      "url": "https://www.nefisyemektarifleri.com/video/karniyarik-yemegi-videosu/"
+    },
+    {
+      "id": "8",
+      "baslik": "Tavuklu Sultan Kebabı",
+      "aciklama": "8-10 kişilik, 15 dk hazırlık, 30 dk pişirme",
+      "malzemeler": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "400g tavuk pirzola",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "hazirlanisi": "Patlıcanı alacalı soyarak küçük küçük doğrayın ve sıvı yağ ile kızartın.Süzgece alarak yağının süzmesi bekleyin bu arada tavukları soteleyin.Tavukları kuş başı doğrayın, tencereye alarak arada karıştırarak pişirin.Rengi dönüp suyunu saldığında yemeklik doğranmış soğanı ekleyin.",
+      "resim": "tavuklu-sultan-kebabi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi-tarifi/"
+    },
+    {
+      "id": "7d81",
+      "baslik": "Cevizli Baklava",
+      "aciklama": "4-6 Kişilik, 30dk Hazırlık, 1 saat Pişirme",
+      "malzemeler": [
+        "4 su bardağı şeker",
+        "4 su bardağı su",
+        "1 tatlı kaşığı limon suyu",
+        "3,5 su bardağı un",
+        "2 adet yumurta",
+        "1 çay bardağı sıvı yağ",
+        "1 çay bardağı süt",
+        "1 yemek kaşığı sirke",
+        "Çay kaşığı ucu ile Tuz",
+        "Nişasta",
+        "2 su bardağı ceviz kırığı",
+        "250g tereyağı",
+        "Yarım çay bardağı sıvı yağ"
+      ],
+      "hazirlanisi": "İlk olarak tatlımızın şerbetini hazırlayalım. Bunun için uygun bir tencereye şeker ve suyu alalım.\nKarıştırdıktan sonra şerbetimizi kaynamaya bırakalım.\nSürenin sonunda limon suyunu da ilave ederek bir kaç dakika daha kaynatalım ve ocaktan alalım.\nBaklava hamuru için yoğurma kabına yumurta, sıvı yağ, süt, sirke ve tuzu alarak karıştıralım.\nDaha sonra unu yavaş yavaş  ilave ederek hamurumuzu ele yapışmayan bir kıvam alıncaya  kadar yoğuralım.\nYoğurduğumuz hamurumuzun üzerini streçleyerek 30 dakika kadar dinlenmeye bırakalım. Bu şekilde hamurumuz çok daha kolay açılacaktır.\nSüre sonunda hamurumuzu tezgaha alalım ve bir iki kere daha yoğurarak toparlayalım.\nHamurumuzu ilk önce eşit bir şekilde 3 parçaya ayıralım, daha sonra her parçayı da 9 parçaya ayıralım.\nBöldüğümüz parçaları dıştan içe doğru yoğurup, elimizde yuvarlayarak beze haline getirelim. Toplamda 27 adet beze elde etmiş olacağız.\nTüm parçaları beze haline getirdikten sonra üzerlerini streç filmle kapatalım. Böylece hamur açma işlemi bitene kadar kurumalarını engellemiş olacağız.\nBezelerimizinden bir tanesini nişasta serptiğimiz tezgaha alalım, merdane yardımı ile tatlı tabağı boyutunda açalım. Bu şekilde ilk 9 bezeyi tek tek açalım, aralarına nişasta serperek üst üste yerleştirelim.\nDaha sonra hazırladığımız 9 kat hamuru tepsi boyutundan biraz büyük olacak şekilde arada bir ters-yüz ederek açalım. Burada hamuru ters yüz ettiğinizde altta kalan küçük katlarda eşit oranda genişleyecektir.\nDaha sonra hamuru yine dikkatli bir şekilde, nazikçe katlarına ayıralım.\nElde ettiğimiz incecik, zar gibi baklava hamurunu tepsimize yerleştirelim. Dilerseniz benim gibi yufkaları ayırarak koyabileceğiniz gibi ayırmadan bütün bir şekilde de koyabilirsiniz.\nİlk 9 katı tepsiye yerleştirdikten sonra üzerine ceviz kırıkları serpiştirelim. Dilerseniz bu aşamada fındık veya fıstıkta koyabilirsiniz.\nDiğer 9 bezeyı de aynı şekilde açarak, aralarına nişasta serpelim ve üst üste yerleştirelim. Ardından tepsi boyutunda genişletelim.\nGenişlettiğimiz hamuru tekrar katlarına ayırarak tepsimize yerleştirelim.Eğer siz de katları tek tek yerleştirecekseniz ve yeriniz de müsaitse, hamurları kurumaları için bir yere serip, 3-4 dakika bekletebilirsiniz.\nTepsiye yerleştirdiğimiz hamurların üzerine ceviz kırığı serpelim.\nSon 9 bezemizi de aynı işlemleri uygulayarak tepsi boyutunda genişletelim ve tepsimize yerleştirelim.\nBaklavamızı keserken ilk önce 4 parçaya keselim. Daha sonra bu 4 parçayı da küçük üçgenlere ayıralım.\nSon olarak eritilmiş tereyağı ve sıvı yağ karışımını baklavamızın üzerine gezdirelim ve önceden ısıttığımız 170°C fırında 1 saat kadar pişmeye bırakalım.\nSüre sonunda fırından aldığımız sıcak baklavaların üzerine soğuyan şerbetimizi gezdirelim ve şerbetini çekmesi için dinlenmeye bırakalım. Deneyeceklere şimdiden afiyet olsun.",
+      "resim": "ev-baklavasi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/cevizli-baklava-tarifi/"
+    },
+    {
+      "id": "4db0",
+      "baslik": "Süt Helvası",
+      "aciklama": "4-6 Kişilik, 10dk Hazırlık, 15dk Pişirme",
+      "malzemeler": [
+        "1 litre süt",
+        "2 dolu yemek kaşığı tereyağı",
+        "1 su bardağı toz şeker",
+        "1 su bardağından iki parmak eksik un",
+        "1 yumurta sarısı",
+        "1 paket vanilya"
+      ],
+      "hazirlanisi": "Süt helvası için öncelikle bir tencereye tereyağını alarak kısık ateşte eritelim.\nTereyağı güzelce eridikten sonra tencereye unu ekleyelim.\nDaha sonra karıştırarak unun kokusu çıkıncaya kadar kavuralım.\nUn hafifçe kavrulduktan sonra sütü tencereye yavaş yavaş ekleyelim. Diğer taraftan da sürekli karıştırarak pişirmeye devam edelim\nSütün ısınmasına fırsat vermeden yumurta sarısı ve toz şekeri de ilave edelim.\nYine hızlıca çırparak muhallebiyi pişirmeye devam edelim.\nMuhallebimiz kaynayıp koyulaştıktan sonra vanilyayı ekleyelim, tekrar hızlıca karıştıralım.\nHazır olan muhallebiyi ısıya dayanıklı fırın kaplarına paylaştıralım ve fırın kaplarımızı derin bir borcam ya da fırın kabına alalım.\nGüveçlerin yaklaşık yarısına gelecek kadar su ile dolduralım.\nÖnceden ısıttığımız 190 derece fırında yaklaşık 10 dakika boyunca muhallebinin üzerini kızartalım.\nArdından süt helvalarımızı fırından alalım. Yapımı oldukça kolay süt helvamızı sıcak ya da soğuk olarak servis edelim. Afiyet olsun!",
+      "resim": "sut-helvasi.jpg",
+      "url": "https://www.nefisyemektarifleri.com/sut-helvasi-muhtesem-bir-lezzet/"
+    }
+  ]
+}
